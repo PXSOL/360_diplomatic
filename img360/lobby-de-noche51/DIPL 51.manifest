@@ -1,0 +1,40 @@
+CACHE MANIFEST
+# created with Pano2VR, Thu Nov  8 10:32:03 2012
+images/DIPL 51_o_800_0.jpg
+images/DIPL 51_o_0.jpg
+images/DIPL 51_o_800_1.jpg
+images/DIPL 51_o_1.jpg
+images/DIPL 51_o_800_2.jpg
+images/DIPL 51_o_2.jpg
+images/DIPL 51_o_800_3.jpg
+images/DIPL 51_o_3.jpg
+images/DIPL 51_o_800_4.jpg
+images/DIPL 51_o_4.jpg
+images/DIPL 51_o_800_5.jpg
+images/DIPL 51_o_5.jpg
+skin images/autorotate.svg
+skin images/autorotate__o.svg
+skin images/down.svg
+skin images/down__o.svg
+skin images/fullscreen.svg
+skin images/fullscreen__o.svg
+skin images/hsimage.svg
+skin images/info.svg
+skin images/info__o.svg
+skin images/left.svg
+skin images/left__o.svg
+skin images/movemode.svg
+skin images/movemode__o.svg
+skin images/right.svg
+skin images/right__o.svg
+skin images/up.svg
+skin images/up__o.svg
+skin images/zoomin.svg
+skin images/zoomin__o.svg
+skin images/zoomout.svg
+skin images/zoomout__o.svg
+DIPL 51_out.xml
+pano2vr_player.js
+swfobject.js
+skin.js
+pano2vrgyro.js
